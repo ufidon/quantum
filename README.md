@@ -22,4 +22,7 @@
 - [A Practical Guide to Quantum Machine Learning and Quantum Optimisation](https://github.com/PacktPublishing/A-Practical-Guide-to-Quantum-Machine-Learning-and-Quantum-Optimization)
 - [Introduction to Quantum Algorithms via Linear Algebra](https://mitpress.mit.edu/9780262045254/introduction-to-quantum-algorithms-via-linear-algebra/)
 - [Essential Mathematics for Quantum Computing](https://www.packtpub.com/product/essential-mathematics-for-quantum-computing/9781801073141)
+- [Mathematics of Quantum Computing](https://link.springer.com/book/10.1007/978-3-030-12358-1)
+- [Cryptography Algorithms: A guide to algorithms in blockchain, quantum cryptography, zero-knowledge protocols, and homomorphic encryption](https://www.perlego.com/book/3284640/cryptography-algorithms-a-guide-to-algorithms-in-blockchain-quantum-cryptography-zeroknowledge-protocols-and-homomorphic-encryption-pdf)
+- [A Practical Guide to Quantum Machine Learning and Quantum Optimization](https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832)
 
